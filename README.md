@@ -1,2 +1,3 @@
-# sturing
-👨‍💻 Scientific diffusion of contents related to Computer Science.
+# sTuring Content
+
+:globe_with_meridians: [Daniel Brito - Personal Website](https://danielbrito.github.io/home/)
