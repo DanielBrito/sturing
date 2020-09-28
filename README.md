@@ -24,4 +24,4 @@ Confira mais informações sobre mim e meus projetos no meu **[site pessoal](htt
 
 ## :bookmark: Categorias
 
-- [Dicionário]()
+- [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario)

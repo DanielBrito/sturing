@@ -2,4 +2,4 @@
 
 ## Sumário
 
-- Ciência da Computação
+- [Ciência da Computação](https://github.com/DanielBrito/sturing/blob/master/Dicionario/CienciaDaComputacao.md)
