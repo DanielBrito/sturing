@@ -22,8 +22,14 @@ Como computadores são grandes e complexos, eles são inevitavelmente desenvolvi
 
 📋 Referência:
 
-"What is Computer Science? - Computer Science, The University of York" - www.cs.york.ac.uk. Retrieved September 28, 2020.
+"What is Computer Science? - Computer Science, The University of York" - [Website](www.cs.york.ac.uk)
 
 ---
 
-[POST no INSTAGRAM](https://www.instagram.com/p/CFsXTbvJ5B3/) :eyes:
+:books: Leitura Complementar:
+
+Computer Science - [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+
+---
+
+[POST no INSTAGRAM](https://www.instagram.com/p/CFsXTbvJ5B3/) :heart:
