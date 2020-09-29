@@ -1,5 +1,7 @@
 <h1 align="center"> :man_technologist: sTuring</h1>
 
+![sTuring](https://1.bp.blogspot.com/-DHoxDgCdjxg/X3KON1i3GoI/AAAAAAAAXIE/46WgwO35Uvsbjo6i9tQ-9n2PFuXY01icwCLcBGAsYHQ/s2048/CAPA.jpg)
+
 ## :thinking: Por que sTuring
 
 O **sTuring** foi proposto por mim como uma ideia para **aprendizagem cooperativa** na faculdade, mas que, infelizmente, não foi aceito durante o processo seletivo.
