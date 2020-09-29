@@ -10,11 +10,9 @@ Decidi, então, criar este projeto alternativo para **compartilhar o conheciment
 
 Sinta-se à vontade para compartilhar e recomendar assuntos. Será um prazer criar alguns posts sobre tópicos interessantes.
 
-**[[POST no INSTAGRAM]](https://www.instagram.com/p/CFsRKtrpKts/)** :eyes:
-
 ## :nerd_face: Sobre mim
 
-Sou **estudante** de **Ciência da Computação** e estagiário na **Universidade Federal do Ceará** (Campus de Crateús).
+Meu nome é Daniel Brito. Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
 
 Atualmente, tenho focado meus estudos em tópicos relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor full-stack.
 
@@ -22,8 +20,6 @@ Além disso, tenho um grande interesse pelo campo do **[Design Generativo](https
 
 Confira mais informações sobre mim e meus projetos no meu **[site pessoal](https://danielbrito.github.io/)**.
 
-**[[POST no INSTAGRAM]](https://www.instagram.com/p/CFsTqxEJYGK/)** :eyes:
-
 ## :bookmark: Categorias
 
-- [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario)
+- [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario): Explicação de conceitos
