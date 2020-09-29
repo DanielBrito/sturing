@@ -12,7 +12,9 @@ Sinta-se à vontade para compartilhar e recomendar assuntos. Será um prazer cri
 
 ## :nerd_face: Sobre mim
 
-Meu nome é Daniel Brito. Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
+Olá, mundo! Meu nome é **Daniel Brito**. 
+
+Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
 
 Atualmente, tenho focado meus estudos em tópicos relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor full-stack.
 
