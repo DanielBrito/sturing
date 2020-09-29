@@ -4,9 +4,9 @@
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto por mim como uma ideia para **aprendizagem cooperativa** na faculdade, mas que, infelizmente, não foi aceito durante o processo seletivo.
+O **sTuring** foi proposto por mim para ser uma célula de **aprendizagem cooperativa** na faculdade. Mas, infelizmente, não foi aceito durante o processo seletivo.
 
-Decidi, então, criar este projeto para **compartilhar o conhecimento** que venho adquirindo ao longo do meu processo de graduação.
+Decidi, então, criar este projeto alternativo para **compartilhar o conhecimento** que venho adquirindo ao longo do meu processo de graduação.
 
 Sinta-se à vontade para compartilhar e recomendar assuntos. Será um prazer criar alguns posts sobre tópicos interessantes.
 
@@ -14,9 +14,9 @@ Sinta-se à vontade para compartilhar e recomendar assuntos. Será um prazer cri
 
 ## :nerd_face: Sobre mim
 
-Sou **estudante de Ciência da Computação** na Universidade Federal do Ceará (Campus de Crateús).
+Sou **estudante** de **Ciência da Computação** e estagiário na **Universidade Federal do Ceará** (Campus de Crateús).
 
-Atualmente, estou focado em tópicos relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas também estou seguindo os passos para me tornar um desenvolvedor full-stack.
+Atualmente, tenho focado meus estudos em tópicos relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor full-stack.
 
 Além disso, tenho um grande interesse pelo campo do **[Design Generativo](https://github.com/DanielBrito/generative-design)**, que é um processo de criação de algoritmos para gerar arte.
 
