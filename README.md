@@ -10,7 +10,7 @@ O **sTuring** foi proposto por mim para ser uma célula de **aprendizagem cooper
 
 Decidi, então, criar este projeto alternativo para **compartilhar o conhecimento** que venho adquirindo ao longo do meu processo de graduação.
 
-Sinta-se à vontade para compartilhar e recomendar assuntos. Será um prazer criar alguns posts sobre tópicos interessantes.
+Sinta-se à vontade para **compartilhar** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
 
 ## :nerd_face: Sobre mim
