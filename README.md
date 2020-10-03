@@ -29,3 +29,4 @@ Confira mais informações sobre mim e meus projetos no meu **[site pessoal](htt
 ## :bookmark: Categorias dos posts
 
 - [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario): Explicação de conceitos da área
+- [Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa): Releitura do trabalho do Domain of Science

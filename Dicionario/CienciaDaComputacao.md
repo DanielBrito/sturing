@@ -4,7 +4,7 @@ Ciência da Computação não envolve apenas computadores.
 
 Também é o estudo da computação e da informação, sendo um assunto que envolve você na própria constituição do mundo, e que, nos últimos 30 anos, transformou a maneira como conduzimos nossa vida cotidiana.
 
-A revolução do computador doméstico trouxe um PC (Personal Computer) para quase todas os lares. E a internet e as mídias sociais têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
+A revolução do computador doméstico trouxe um PC (Personal Computer) para quase todos os lares. E a internet e as mídias sociais têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
 
 Sistemas computadorizados são onipresentes, e vão desde sistemas embarcados que controlam uma geladeira até sistemas bancários internacionais que lidam com bilhões de transações seguras todos os dias.
 
