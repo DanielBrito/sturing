@@ -1,6 +1,6 @@
 <h1 align="center"> :man_technologist: sTuring</h1>
 
-![sTuring](https://1.bp.blogspot.com/-DHoxDgCdjxg/X3KON1i3GoI/AAAAAAAAXIE/46WgwO35Uvsbjo6i9tQ-9n2PFuXY01icwCLcBGAsYHQ/s2048/CAPA.jpg)
+![sTuring](https://1.bp.blogspot.com/-XwSLh6qzYzE/X3fDxZ0GQiI/AAAAAAAAXJU/kQBvnImmscgJUa8oh8Fc_QURPK9wC_K0wCLcBGAsYHQ/s2048/NEW_COVER.png)
 
 ---
 
