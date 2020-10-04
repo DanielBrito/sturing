@@ -7,6 +7,7 @@
 ## Postagens
 
 - [Parte #0000](https://github.com/DanielBrito/sturing/blob/master/Mapa/0000.md)
+- [Parte #0001](https://github.com/DanielBrito/sturing/blob/master/Mapa/0001.md)
 
 ---
 
