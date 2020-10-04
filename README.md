@@ -1,4 +1,4 @@
-<h1 align="center"> :man_technologist: sTuring</h1>
+<h1 align="center"> sTuring</h1>
 
 ![sTuring](https://1.bp.blogspot.com/-XwSLh6qzYzE/X3fDxZ0GQiI/AAAAAAAAXJU/kQBvnImmscgJUa8oh8Fc_QURPK9wC_K0wCLcBGAsYHQ/s2048/NEW_COVER.png)
 
@@ -26,7 +26,12 @@ Além disso, também tenho um grande interesse pelo campo do **[Design Generativ
 Confira mais informações sobre mim e meus projetos no meu **[site pessoal](https://danielbrito.github.io/)**.
 
 
-## :bookmark: Categorias dos posts
+## :bookmark: Categorias
 
 - [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario): Explicação de conceitos da área
 - [Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa): Releitura do trabalho do Domain of Science
+
+
+## :star: Recursos
+
+- [Flaticon](https://www.flaticon.com/): Ilustrações das postagens
