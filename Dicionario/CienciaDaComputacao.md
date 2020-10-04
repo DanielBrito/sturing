@@ -1,22 +1,18 @@
 # Ciência da Computação
 
-Ciência da Computação não envolve apenas computadores.
+A Ciência da Computação não envolve apenas computadores. Além disso, é o estudo da computação e da informação, sendo um assunto que envolve você na própria constituição do mundo e que, nos últimos 30 anos, transformou a maneira como conduzimos nossa vida cotidiana.
 
-Também é o estudo da computação e da informação, sendo um assunto que envolve você na própria constituição do mundo, e que, nos últimos 30 anos, transformou a maneira como conduzimos nossa vida cotidiana.
+A revolução do computador doméstico trouxe um PC (Personal Computer) para todos os lares. A internet e as mídias sociais têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
 
-A revolução do computador doméstico trouxe um PC (Personal Computer) para quase todos os lares. E a internet e as mídias sociais têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
+Os sistemas de computador são onipresentes, variando desde o sistema embarcado, que controla uma geladeira, até sistemas bancários internacionais, que lidam com bilhões de transações seguras todos os dias. Muitos desses sistemas são muito familiares, ainda assim, temos os sistemas computacionais que tornam possíveis coisas como telefones celulares, carros, aviões e equipamentos médicos.
 
-Sistemas computadorizados são onipresentes, e vão desde sistemas embarcados que controlam uma geladeira até sistemas bancários internacionais que lidam com bilhões de transações seguras todos os dias.
+Além de nossa vida cotidiana, a Ciência da Computação tem tido um impacto igualmente grande em outras áreas da ciência, muitas das quais requerem o processamento e a análise de vastos conjuntos de dados. Desde a captura e interpretação de dados no Grande Colisor de Hádrons até o Projeto Genoma Humano, esses empreendimentos científicos simplesmente não seriam possíveis sem a Ciência da Computação.
 
-Além de nossa vida cotidiana, a Ciência da Computação também tem um grande impacto em outras áreas da ciência, muitas das quais exigem o processamento e a análise de vastos conjuntos de dados.
+A Ciência da Computação abrange ideias teóricas sobre como as informações são armazenadas e processadas, bem como podemos expressar as instruções necessárias para realizar um cálculo eficiente. Trata também sobre técnicas para a criação de novos softwares e hardwares de computador.
 
-A Ciência da Computação engloba ideias teóricas sobre como as informações são armazenadas e processadas, e como podemos expressar as instruções necessárias para realizar cálculos eficientes.
+A Ciência da Computação, tradicionalmente, não é ensinada nas escolas. Em vez disso, o uso de pacotes de software têm sido ensinados em TIC (Tecnologia da Informação e Comunicação), que é um assunto muito diferente (um pouco parecido com a diferença entre saber dirigir e saber como projetar e construir um carro novo).
 
-Trata também sobre técnicas para a criação de novos softwares e hardwares de computador.
-
-Como disciplina, a Ciência da Computação requer pensamento lógico, criatividade e capacidade para resolução de problemas.
-
-Como computadores são grandes e complexos, eles são inevitavelmente desenvolvidos por grandes equipes, portanto, trabalhar bem com os outros também é crucial.
+Como disciplina, a Ciência da Computação requer pensamento lógico, criatividade e capacidade para resolução de problemas. Como os sistemas de computador, atualmente, são tão grandes e complexos, eles são inevitavelmente desenvolvidos por grandes equipes, portanto, trabalhar bem com os outros também é crucial.
 
 ---
 
