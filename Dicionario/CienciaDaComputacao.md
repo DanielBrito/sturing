@@ -28,4 +28,4 @@ Computer Science - [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 
 ---
 
-[POST no INSTAGRAM](https://www.instagram.com/p/CFsXTbvJ5B3/) :heart:
+:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CFsXTbvJ5B3/) 
