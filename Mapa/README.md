@@ -1,4 +1,4 @@
-<h1 align="center">📌 Mapa da Ciência da Computação</h1>
+<h1 align="center">📌 Mapa</h1>
 
 *Ciência da Computação é a área que estuda o que os computadores podem fazer e investiga as melhores maneiras que você pode resolver os problemas do mundo com eles. É um vasto campo que abrange matemática pura, engenharia e muitas outras disciplinas científicas.*
 
