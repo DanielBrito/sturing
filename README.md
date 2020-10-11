@@ -1,6 +1,6 @@
 <h1 align="center"> sTuring</h1>
 
-![sTuring](https://1.bp.blogspot.com/-XwSLh6qzYzE/X3fDxZ0GQiI/AAAAAAAAXJU/kQBvnImmscgJUa8oh8Fc_QURPK9wC_K0wCLcBGAsYHQ/s2048/NEW_COVER.png)
+![sTuring Logo](https://1.bp.blogspot.com/-1k4JVRo7fBI/X3y0XeBGaYI/AAAAAAAAXKM/Ri65yc5zORc27EfwHGdagCy2Qd6wqtBdgCLcBGAsYHQ/s2048/NEW_COVER_001.png)
 
 ---
 
