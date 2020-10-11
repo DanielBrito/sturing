@@ -2,7 +2,7 @@
 
 A Ciência da Computação não envolve apenas computadores. Além disso, é o estudo da computação e da informação, sendo um assunto que envolve você na própria constituição do mundo e que, nos últimos 30 anos, transformou a maneira como conduzimos nossa vida cotidiana.
 
-A revolução do computador doméstico trouxe um PC (Personal Computer) para todos os lares. A internet e as mídias sociais têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
+A revolução do computador doméstico trouxe um PC (Personal Computer) para todos os lares. A internet e as mídias sociais também têm transformado a forma como nos comunicamos e divulgamos informações ao redor do mundo.
 
 Os sistemas de computador são onipresentes, variando desde o sistema embarcado, que controla uma geladeira, até sistemas bancários internacionais, que lidam com bilhões de transações seguras todos os dias. Muitos desses sistemas são muito familiares, ainda assim, temos os sistemas computacionais que tornam possíveis coisas como telefones celulares, carros, aviões e equipamentos médicos.
 
@@ -28,4 +28,4 @@ Computer Science - [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CFsXTbvJ5B3/) 
+:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CFr9X88JVL4/)
