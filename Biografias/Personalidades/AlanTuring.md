@@ -20,7 +20,7 @@ Em 2009, o primeiro-ministro do Reino Unido, Gordon Brown, após a realização 
 
 ---
 
-📋 Referências:
+📋 **Referências:**
 
 "Alan Turing" - [E-Biografia](https://www.ebiografia.com/alan_turing/)
 
@@ -28,13 +28,13 @@ Em 2009, o primeiro-ministro do Reino Unido, Gordon Brown, após a realização 
 
 ---
 
-:books: Leitura Complementar:
+:books: **Leitura Complementar:**
 
 Alan Turing: Life and Legacy of a Great Thinker - [Amazon](https://www.amazon.com/Alan-Turing-Legacy-Great-Thinker/dp/3540200207)
 
 ---
 
-🎬 Conteúdo Audiovisual Complementar:
+🎬 **Conteúdo Audiovisual Complementar:**
 
 The Imitation Game (Filme) - [YouTube](https://www.youtube.com/watch?v=5gcyB72nFmc)
 

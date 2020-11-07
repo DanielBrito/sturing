@@ -28,11 +28,11 @@ Confira mais informações sobre mim e meus projetos no meu **[site pessoal](htt
 
 ## :bookmark: Categorias
 
-- [Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario): Definição de conceitos da área
-- [Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa): Releitura do trabalho do Domain of Science
-- [Biografias](https://github.com/DanielBrito/sturing/tree/master/Biografias): Pessoas que marcaram a história da Computação
+- **[Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario):** Definição de conceitos da área
+- **[Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa):** Releitura do trabalho do Domain of Science
+- **[Biografias](https://github.com/DanielBrito/sturing/tree/master/Biografias):** Pessoas que marcaram a história da Computação
 
 
 ## :star: Recursos
 
-- [Flaticon](https://www.flaticon.com/): Ilustrações das postagens
+- **[Flaticon](https://www.flaticon.com/):** Ilustrações das postagens
