@@ -23,6 +23,7 @@ Em 2009, o primeiro-ministro do Reino Unido, Gordon Brown, após a realização 
 📋 Referências:
 
 "Alan Turing" - [E-Biografia](https://www.ebiografia.com/alan_turing/)
+
 "Alan Turing" - [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 ---
@@ -36,7 +37,9 @@ Alan Turing: Life and Legacy of a Great Thinker - [Amazon](https://www.amazon.co
 🎬 Conteúdo Audiovisual Complementar:
 
 The Imitation Game (Filme) - [YouTube](https://www.youtube.com/watch?v=5gcyB72nFmc)
+
 Codebreaker (Documentário) - [YouTube](https://www.youtube.com/watch?v=vVP4yh7SqE0)
+
 Alan Turing: Computer Science (Crash Course) - [YouTube](https://www.youtube.com/watch?v=7TycxwFmdB0)
 
 ---
