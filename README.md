@@ -6,9 +6,9 @@
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto por mim para ser uma célula de **aprendizagem cooperativa**. Mas, infelizmente, não foi aceito durante o processo seletivo.
+O **sTuring** foi proposto por mim para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não foi aceito durante o processo seletivo.
 
-Decidi, então, criar este projeto alternativo para **compartilhar o conhecimento** que venho adquirindo ao longo do meu processo de graduação.
+Decidi, então, criar este projeto alternativo para **disseminar o conhecimento** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público.
 
 Sinta-se à vontade para **compartilhar** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
