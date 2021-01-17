@@ -14,11 +14,20 @@ Outros exemplos de computadores da primeira geração incluem o IBM 701 e o Manc
 
 📋 **Referências:**
 
-"Computers | Timeline of Computer History | Computer History Museum" - [Website](https://www.computerhistory.org/timeline/computers/)
+- "Computers | Timeline of Computer History | Computer History Museum" - [Website](https://www.computerhistory.org/timeline/computers/)
 
-"Generations of Computer - GeeksforGeeks" - [Website](https://www.geeksforgeeks.org/generations-of-computer/)
+- "Generations of Computer - GeeksforGeeks" - [Website](https://www.geeksforgeeks.org/generations-of-computer/)
 
-"How many generations of computers are there?" - [Website](https://www.computerhope.com/issues/ch001921.htm)
+- "How many generations of computers are there?" - [Website](https://www.computerhope.com/issues/ch001921.htm)
+
+---
+
+
+🎬 **Conteúdo Audiovisual:**
+
+- Early Computing: Computer Science (Crash Course) - [YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+
+- Electronic Computing: Computer Science (Crash Course) - [YouTube](https://www.youtube.com/watch?v=LN0ucKNX0hc)
 
 ---
 

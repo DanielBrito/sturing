@@ -1,4 +1,4 @@
-# 👨 Alan Turing
+# Alan Turing
 
 Alan Turing (1912-1954) foi um matemático britânico que ajudou a formalizar o conceito de algoritmo e computação com a sua famosa Máquina de Turing, desempenhando um papel fundamental na criação do computador moderno. É considerado o pai da ciência computacional e da inteligência artificial.
 
@@ -34,7 +34,7 @@ Alan Turing: Life and Legacy of a Great Thinker - [Amazon](https://www.amazon.co
 
 ---
 
-🎬 **Conteúdo Audiovisual Complementar:**
+🎬 **Conteúdo Audiovisual:**
 
 The Imitation Game (Filme) - [YouTube](https://www.youtube.com/watch?v=5gcyB72nFmc)
 

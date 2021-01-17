@@ -1,5 +1,7 @@
 <h1 align="center"> :open_book: Dicionário</h1>
 
+<p align="center"><em>Definição de conceitos da Computação</em></p>
+
 ## A
 
 ## B
