@@ -4,27 +4,25 @@
 
 ---
 
-## :thinking: Por que sTuring
 
-O **sTuring** foi proposto por mim para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não passou no processo seletivo.
-
-Decidi, então, criar este projeto alternativo para **disseminar o conhecimento científico** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público.
-
-Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
-
-
-## :nerd_face: Sobre mim
+## :man_technologist: Sobre mim
 
 Olá, mundo! Meu nome é **Daniel Brito**. 
 
 Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
 
-Atualmente, tenho focado meus estudos em tópicos relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor **full-stack**.
+Atualmente, tenho focado meus estudos em **[tópicos](https://github.com/DanielBrito/self-learning)** relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor **full-stack**.
 
 Além disso, também tenho um grande interesse pelo campo do **[Design Generativo](https://github.com/DanielBrito/generative-design)**, que é um processo de criação de algoritmos para gerar arte.
 
 Confira mais informações sobre mim e meus projetos no meu **[site pessoal](https://danielbrito.github.io/)**.
+## :thinking: Por que sTuring
 
+O **sTuring** foi proposto para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não passou no processo seletivo.
+
+Decidi, então, criar este projeto alternativo para **disseminar o conhecimento científico** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público.
+
+Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
 ## :bookmark: Categorias
 
