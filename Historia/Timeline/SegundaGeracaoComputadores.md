@@ -1,6 +1,6 @@
 # Segunda Geração de Computadores
 
-A segunda geração de computadores foi marcada pelo uso de transistores, ao invés vez de tubos de vácuo, sendo amplamente utilizados em computadores de 1956 a 1963.
+A segunda geração de computadores foi marcada pelo uso de transistores, ao invés de tubos de vácuo, sendo amplamente utilizados em computadores de 1956 a 1963.
 
 Os transistores eram menores que os tubos de vácuo, o que possibilitou a diminuição do tamanho dos computadores, e permitiu um aumento de velocidade e barateamento no custo de construção.
 
@@ -31,4 +31,4 @@ Na segunda geração de computadores também estão inclusos o IBM 7070, o Philc
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CK88TfUMbyE/)
+:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CK8_am2MGrS/)
