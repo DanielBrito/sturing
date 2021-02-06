@@ -5,3 +5,4 @@
 ## 📝 Evolução dos computadores
 
 - [Primeira Geração](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/PrimeiraGeracaoComputadores.md)
+- [Segunda Geração](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/SegundaGeracaoComputadores.md)
