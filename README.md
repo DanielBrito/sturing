@@ -20,7 +20,7 @@ Confira mais informações sobre mim e meus projetos no meu **[site pessoal](htt
 
 O **sTuring** foi proposto para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não passou no processo seletivo.
 
-Decidi, então, criar este projeto alternativo para **disseminar o conhecimento científico** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público.
+Decidi, então, criar este projeto alternativo para **disseminar o conhecimento científico** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público em geral.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
