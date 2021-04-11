@@ -2,9 +2,9 @@
 
 A quinta geração de computadores é marcada pelo uso de IA (Inteligência Artificial), uma tecnologia muito promissora com aplicações potenciais em todo o mundo.
 
-O objetivo da quinta geração é fazer com que um dispositivo possa responder a entradas de linguagem natural, e seja capaz de aprender e se auto-organizar.
+O objetivo da quinta geração é fazer com que um dispositivo possa responder à entradas de linguagem natural, e seja capaz de aprender e se auto-organizar.
 
-Os computadores desta geração são baseados na tecnologia ULSI (Ultra Large Scale Integration) resultando na produção de chips de microprocessador com milhões de componentes eletrônicos.
+Os computadores desta geração são baseados na tecnologia ULSI (Ultra Large Scale Integration), resultando na produção de chips de microprocessador com milhões de componentes eletrônicos.
 
 Alguns exemplos:
 
@@ -14,7 +14,7 @@ Alguns exemplos:
 - UltraBook
 - Chromebook
 
-Um dos exemplos mais conhecidos de IA é o Watson, um sistema de computador capaz de responder a perguntas feitas em linguagem natural, desenvolvido no projeto DeepQA da IBM.
+Um dos exemplos mais conhecidos de IA é o Watson, um sistema de computador capaz de responder à perguntas feitas em linguagem natural, desenvolvido no projeto DeepQA da IBM.
 
 Outros exemplos bem conhecidos incluem a Siri, da Apple, e a Cortana, da Microsoft. O mecanismo de pesquisa do Google também utiliza IA para processar pesquisas de usuários.
 
