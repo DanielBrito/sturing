@@ -4,11 +4,11 @@ A Internet é a "espinha dorsal" da Web, uma infraestrutura técnica que torna s
 
 Para que os computadores possam se comunicar é necessário conectá-los de alguma maneira, por exemplo, através de um cabo ou via Wi-Fi.
 
-![Simple example](simple-example.png)
+![Simple example](internet-schema-1.png)
 
 Conectar muitos computadores é uma tarefa complexa, assim, para resolver este problema, cada computador em uma rede é conectado a um pequeno computador especial chamado de roteador, o qual garante que uma mensagem enviada de um determinado computador chegue ao computador de destino correto.
 
-![Router example](router-example.png)
+![Router example](internet-schema-3.png)
 
 Na imagem anterior, para enviar uma mensagem ao computador B, o computador A deve enviar a mensagem ao roteador, que, por sua vez, a encaminha para o computador B e garante que a mensagem não seja entregue ao computador C.
 
