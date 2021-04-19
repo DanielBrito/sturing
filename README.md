@@ -31,3 +31,4 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 - **[Biografias](https://github.com/DanielBrito/sturing/tree/master/Biografias):** Pessoas influentes na Computação
 - **[BlockQuote](https://github.com/DanielBrito/sturing/tree/master/BlockQuote):** Citações interessantes sobre Computação
 - **[História](https://github.com/DanielBrito/sturing/tree/master/Historia):** Marcos importantes na história da Computação
+- **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
