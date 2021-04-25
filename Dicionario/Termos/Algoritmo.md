@@ -4,12 +4,12 @@ Um algoritmo é um conjunto de instruções projetadas para realizar determinada
 
 Algoritmo básico para confecção de um bolo:
 
-- 1. Coletar os ingredientes
-- 2. Misturar ingredientes na tigela
-- 3. Untar a forma
-- 4. Despejar a mistura na forma
-- 5. Colocar a forma em um forno
-- 6. Retirar a forma após 15 minutos
+- Coletar os ingredientes
+- Misturar ingredientes na tigela
+- Untar a forma
+- Despejar a mistura na forma
+- Colocar a forma em um forno
+- Retirar a forma após 15 minutos
 
 Na computação, um algoritmo pode ser representado por um processo simples, como multiplicar dois números, ou operações mais complexas, como reproduzir um vídeo do YouTube no celular.
 

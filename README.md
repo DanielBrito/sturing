@@ -35,5 +35,6 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 
 ## 🧰 Recursos
 
+- Cards - [Canva](https://www.canva.com/)
 - Ícones - [Flaticon](https://www.flaticon.com/)
 - Fotos - [Unsplash](https://unsplash.com/)
