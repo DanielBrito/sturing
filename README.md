@@ -4,10 +4,9 @@
 
 ---
 
-
 ## :man_technologist: Sobre mim
 
-Olá, mundo! Meu nome é **Daniel Brito**. 
+Olá, mundo! Meu nome é **Daniel Brito**.
 
 Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
 
@@ -16,6 +15,7 @@ Atualmente, tenho focado meus estudos em **[tópicos](https://github.com/DanielB
 Além disso, também tenho um grande interesse pelo campo do **[Design Generativo](https://github.com/DanielBrito/generative-design)**, que é um processo de criação de algoritmos para gerar arte.
 
 Confira mais informações sobre mim e meus projetos no meu **[site pessoal](https://danielbrito.github.io/)**.
+
 ## :thinking: Por que sTuring
 
 O **sTuring** foi proposto para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não passou no processo seletivo.
@@ -32,3 +32,8 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 - **[BlockQuote](https://github.com/DanielBrito/sturing/tree/master/BlockQuote):** Citações interessantes sobre Computação
 - **[História](https://github.com/DanielBrito/sturing/tree/master/Historia):** Marcos importantes na história da Computação
 - **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
+
+## 🧰 Recursos
+
+- Ícones - [Flaticon](https://www.flaticon.com/)
+- Fotos - [Unsplash](https://unsplash.com/)

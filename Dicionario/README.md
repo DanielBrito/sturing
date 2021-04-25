@@ -4,6 +4,8 @@
 
 ## A
 
+- [Algoritmo](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/Algoritmo.md)
+
 ## B
 
 ## C
