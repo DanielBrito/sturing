@@ -18,9 +18,9 @@ Confira mais informações sobre mim e meus projetos no meu **[site pessoal](htt
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto para ser uma célula de **aprendizagem cooperativa** na UFC. Mas, infelizmente, não passou no processo seletivo.
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde cursei Ciência da Computação. 
 
-Decidi, então, criar este projeto alternativo para **disseminar o conhecimento científico** que venho adquirindo ao longo da minha graduação, por meio de uma abordagem mais acessível para o público em geral.
+Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma forma acessível para o público em geral**.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
@@ -38,3 +38,9 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 - Cards - [Canva](https://www.canva.com/)
 - Ícones - [Flaticon](https://www.flaticon.com/)
 - Fotos - [Unsplash](https://unsplash.com/)
+
+---
+
+
+foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde cursei Ciência da Computação. Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de compartilhar o conhecimento que adquiri ao longo do meu processo de graduação, mas de uma forma acessível para o público em geral.
+                                
