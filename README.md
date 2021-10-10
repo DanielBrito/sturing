@@ -37,10 +37,4 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 
 - Cards - [Canva](https://www.canva.com/)
 - Ícones - [Flaticon](https://www.flaticon.com/)
-- Fotos - [Unsplash](https://unsplash.com/)
-
----
-
-
-foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde cursei Ciência da Computação. Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de compartilhar o conhecimento que adquiri ao longo do meu processo de graduação, mas de uma forma acessível para o público em geral.
-                                
+- Fotos - [Unsplash](https://unsplash.com/)                                
