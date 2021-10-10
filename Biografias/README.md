@@ -4,4 +4,4 @@
 
 - [Alan Turing](https://github.com/DanielBrito/sturing/blob/master/Biografias/Personalidades/AlanTuring.md)
 
-- [Ada Lovelace](https://github.com/DanielBrito/sturing/blob/master/Biografias/Personalidades/AlaLovelace.md)
+- [Ada Lovelace](https://github.com/DanielBrito/sturing/blob/master/Biografias/Personalidades/AdaLovelace.md)
