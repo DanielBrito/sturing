@@ -1,6 +1,6 @@
 # Ada Lovelace
 
-Ada Lovelace, como é mais conhecida, nasceu em 1915, na Inglaterra. Filha da matemática Lady Anne Isabella Milbanke Byron e do Lord George Gordon Byron, um poeta bastante influente na época. Contudo, separaram-se dois meses após o nascimento de Ada.
+Ada Lovelace, como é mais conhecida, nasceu em 1815, na Inglaterra. Filha da matemática Lady Anne Isabella Milbanke Byron e do Lord George Gordon Byron, um poeta bastante influente na época. Contudo, separaram-se dois meses após o nascimento de Ada.
 
 Incentivada pela mãe, Ada estudou matemática e lógica, algo que era pouco comum na época, visto que meninas, geralmente, eram estimuladas a aprender música, canto, pintura, francês e costura.
 
