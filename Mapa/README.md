@@ -2,11 +2,11 @@
 
 <p align="center"><em>Destrinchando o trabalho do Domain of Science</em></p>
 
-*Ciência da Computação é a área que estuda o que os computadores podem fazer e investiga as melhores maneiras que você pode resolver os problemas do mundo com eles. É um vasto campo que abrange matemática pura, engenharia e muitas outras disciplinas científicas.*
+_"Ciência da Computação é a área que estuda o que os computadores podem fazer e investiga as melhores maneiras que você pode resolver os problemas do mundo com eles. É um vasto campo que abrange matemática pura, engenharia e muitas outras disciplinas científicas."_
 
 ---
 
-## 📝 Postagens:
+### 📝 Postagens:
 
 - [Parte #0000](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0000.md)
 - [Parte #0001](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0001.md)
@@ -17,6 +17,6 @@
 
 ---
 
-## 🎬 Vídeo Complementar:
+### 🎬 Vídeo Complementar:
 
 Map of Computer Science (Domain of Science) - [YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)

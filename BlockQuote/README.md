@@ -1,4 +1,4 @@
-<h1 align="center"> :speaking_head: BlockQuote</h1>
+<h1 align="center"> 🗣️ BlockQuote</h1>
 
 <p align="center"><em>Citações interessantes sobre Computação</em></h1>
 

@@ -6,25 +6,31 @@
 
 ## :man_technologist: Sobre mim
 
-Olá, mundo! Meu nome é **Daniel Brito**.
+Olá, mundo!
 
-Sou **estudante** de **Ciência da Computação** na **Universidade Federal do Ceará** (Campus de Crateús).
+Meu nome é **Daniel Brito**.
 
-Atualmente, tenho focado meus estudos em **[tópicos](https://github.com/DanielBrito/self-learning)** relacionados ao **desenvolvimento front-end** de aplicações **web** e **mobile**, mas estou seguindo os passos para me tornar um desenvolvedor **full-stack**.
+Sou bacharel em **Ciência da Computação** (UFC), **artista visual** e **escritor**.
 
-Além disso, também tenho um grande interesse pelo campo do **[Design Generativo](https://github.com/DanielBrito/generative-design)**, que é um processo de criação de algoritmos para gerar arte.
+Atualmente, trabalho como **desenvolvedor de software**, e tenho focado meus estudos em [tópicos](https://github.com/DanielBrito/self-learning) relacionados à **usabilidade** e **criação de aplicações** para **web** e **dispositivos móveis**.
 
-Confira mais informações sobre mim e meus projetos no meu **[site pessoal](https://danielbrito.github.io/)**.
+Além disso, também tenho um grande interesse pelo campo do [Design Generativo](https://github.com/DanielBrito/generative-design), que é um processo de criação de algoritmos para gerar arte.
+
+Confira mais informações sobre mim e meus projetos no meu [site pessoal](https://danielbrito.github.io/).
+
+---
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde cursei Ciência da Computação. 
-
-Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma forma acessível para o público em geral**.
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará. Mas decidi levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma forma acessível para o público em geral**.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
-## :bookmark: Categorias
+---
+
+## :bookmark_tabs: Categorias
+
+Divisão dos tópicos relacionados aos posts.
 
 - **[Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario):** Definição de conceitos da Computação
 - **[Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa):** Destrinchando o trabalho do Domain of Science
@@ -33,8 +39,12 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 - **[História](https://github.com/DanielBrito/sturing/tree/master/Historia):** Marcos importantes na história da Computação
 - **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
 
+---
+
 ## 🧰 Recursos
 
-- Cards - [Canva](https://www.canva.com/)
-- Ícones - [Flaticon](https://www.flaticon.com/)
-- Fotos - [Unsplash](https://unsplash.com/)                                
+Ferramentas e ilustrações utilizadas na criação dos posts.
+
+- [Canva](https://www.canva.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Unsplash](https://unsplash.com/)
