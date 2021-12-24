@@ -16,16 +16,18 @@ Como disciplina, a Ciência da Computação requer pensamento lógico, criativid
 
 ---
 
-📋 **Referência:**
+### 📋 Referência
 
-"What is Computer Science? - Computer Science, The University of York" - [Website](www.cs.york.ac.uk)
-
----
-
-:books: **Leitura Complementar:**
-
-Computer Science - [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+- "What is Computer Science?" - [University of York](www.cs.york.ac.uk)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CFr9X88JVL4/)
+### :books: Leitura Complementar
+
+- Computer Science - [Wikipedia](https://en.wikipedia.org/wiki/Computer_science)
+
+---
+
+### :heart: Post
+
+Acessar no [Instagram](https://www.instagram.com/p/CFr9X88JVL4/).

@@ -23,16 +23,18 @@ Portanto, quando seu aparelho exibe uma notificação sobre novas atualizações
 
 ---
 
-📋 **Referência:**
+### 📋 Referência
 
-"Algorithm" - [TechTerms](https://techterms.com/definition/algorithm)
-
----
-
-:books: **Vídeo Complementar:**
-
-Intro to Algorithms (Crash Course) - [YouTube](https://www.youtube.com/watch?v=rL8X2mlNHPM)
+- "Algorithm" - [TechTerms](https://techterms.com/definition/algorithm)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/COGM_8xsdQ2/)
+### :books: Vídeo Complementar
+
+- Intro to Algorithms (Crash Course) - [YouTube](https://www.youtube.com/watch?v=rL8X2mlNHPM)
+
+---
+
+### :heart: Post
+
+Acessar no [Instagram](https://www.instagram.com/p/COGM_8xsdQ2/).
