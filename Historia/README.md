@@ -4,8 +4,8 @@
 
 - Evolução dos computadores:
 
-  - [Primeira Geração dos computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/PrimeiraGeracaoComputadores.md)
-  - [Segunda Geração dos computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/SegundaGeracaoComputadores.md)
-  - [Terceira Geração dos computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/TerceiraGeracaoComputadores.md)
-  - [Quarta Geração dos computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/QuartaGeracaoComputadores.md)
-  - [Quinta Geração dos computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/QuintaGeracaoComputadores.md)
+  - [1ª Geração de computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/PrimeiraGeracaoComputadores.md)
+  - [2ª Geração de computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/SegundaGeracaoComputadores.md)
+  - [3ª Geração de computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/TerceiraGeracaoComputadores.md)
+  - [4ª Geração de computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/QuartaGeracaoComputadores.md)
+  - [5ª Geração de computadores](https://github.com/DanielBrito/sturing/blob/master/Historia/Timeline/QuintaGeracaoComputadores.md)
