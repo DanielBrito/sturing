@@ -22,10 +22,12 @@ Basicamente, a Internet consiste em toda esta infraestrutura de redes.
 
 ---
 
-📋 **Referência:**
+### 📋 Referência
 
-"How does the Internet work?" - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- "How does the Internet work?" - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CN1HvSdsXnF/)
+### :heart: Post
+
+Acessar no [Instagram](https://www.instagram.com/p/CN1HvSdsXnF/).

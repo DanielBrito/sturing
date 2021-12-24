@@ -6,7 +6,7 @@ _"Let us change our traditional attitude to the construction of programs. Instea
 
 ### 📋 Referência
 
-"Epígrafes traduzidas" - [IME USP](https://www.ime.usp.br/~pf/algoritmos-livro/epigraphs.html)
+- "Epígrafes traduzidas" - [IME USP](https://www.ime.usp.br/~pf/algoritmos-livro/epigraphs.html)
 
 ---
 
