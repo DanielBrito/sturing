@@ -20,28 +20,30 @@ Em 2009, o primeiro-ministro do Reino Unido, Gordon Brown, após a realização 
 
 ---
 
-📋 **Referências:**
+### 📋 Referências
 
-"Alan Turing" - [E-Biografia](https://www.ebiografia.com/alan_turing/)
+- "Alan Turing" - [E-Biografia](https://www.ebiografia.com/alan_turing/)
 
-"Alan Turing" - [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
-
----
-
-:books: **Leitura Complementar:**
-
-Alan Turing: Life and Legacy of a Great Thinker - [Amazon](https://www.amazon.com/Alan-Turing-Legacy-Great-Thinker/dp/3540200207)
+- "Alan Turing" - [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 ---
 
-🎬 **Conteúdo Audiovisual:**
+### :books: Leitura Complementar
 
-The Imitation Game (Filme) - [YouTube](https://www.youtube.com/watch?v=5gcyB72nFmc)
-
-Codebreaker (Documentário) - [YouTube](https://www.youtube.com/watch?v=vVP4yh7SqE0)
-
-Alan Turing: Computer Science (Crash Course) - [YouTube](https://www.youtube.com/watch?v=7TycxwFmdB0)
+- Alan Turing: Life and Legacy of a Great Thinker - [Amazon](https://www.amazon.com/Alan-Turing-Legacy-Great-Thinker/dp/3540200207)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CHSHu5rMPSR/)
+### 🎬 Conteúdo Audiovisual
+
+- The Imitation Game (Filme) - [YouTube](https://www.youtube.com/watch?v=5gcyB72nFmc)
+
+- Codebreaker (Documentário) - [YouTube](https://www.youtube.com/watch?v=vVP4yh7SqE0)
+
+- Alan Turing: Computer Science (Crash Course) - [YouTube](https://www.youtube.com/watch?v=7TycxwFmdB0)
+
+---
+
+### :heart: Post
+
+Acessar no [Instagram](https://www.instagram.com/p/CHSHu5rMPSR/).
