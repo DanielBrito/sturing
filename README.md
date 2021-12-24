@@ -22,7 +22,7 @@ Confira mais informações sobre mim e meus projetos no meu [site pessoal](https
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará. Mas decidi levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma forma acessível para o público em geral**.
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, mas decidi levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação **de uma maneira acessível para o público em geral**.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
@@ -33,10 +33,15 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 Divisão dos tópicos relacionados aos posts.
 
 - **[Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario):** Definição de conceitos da Computação
+
 - **[Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa):** Destrinchando o trabalho do Domain of Science
+
 - **[Biografias](https://github.com/DanielBrito/sturing/tree/master/Biografias):** Pessoas influentes na Computação
+
 - **[BlockQuote](https://github.com/DanielBrito/sturing/tree/master/BlockQuote):** Citações interessantes sobre Computação
+
 - **[História](https://github.com/DanielBrito/sturing/tree/master/Historia):** Marcos importantes na história da Computação
+
 - **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
 
 ---
@@ -46,5 +51,7 @@ Divisão dos tópicos relacionados aos posts.
 Ferramentas e ilustrações utilizadas na criação dos posts.
 
 - [Canva](https://www.canva.com/)
+
 - [Flaticon](https://www.flaticon.com/)
+
 - [Unsplash](https://unsplash.com/)
