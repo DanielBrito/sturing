@@ -18,24 +18,26 @@ Desde 2009, comemora-se na segunda terça-feira do mês de outubro o Ada Lovelac
 
 ---
 
-📋 **Referências:**
+### 📋 Referências
 
-"10 fatos sobre Ada Lovelace que farão você admirá-la ainda mais" - [Revista Galileu](https://revistagalileu.globo.com/Sociedade/Curiosidade/noticia/2018/02/10-fatos-sobre-ada-lovelace-que-farao-voce-admira-la-ainda-mais.html)
+- "10 fatos sobre Ada Lovelace que farão você admirá-la ainda mais" - [Revista Galileu](https://revistagalileu.globo.com/Sociedade/Curiosidade/noticia/2018/02/10-fatos-sobre-ada-lovelace-que-farao-voce-admira-la-ainda-mais.html)
 
-"Conheça a história da Ada Lovelace, a primeira programadora do mundo" - [EBC](https://memoria.ebc.com.br/tecnologia/2015/03/conheca-historia-da-ada-lovelace-primeira-programadora-do-mundo)
+- "Conheça a história da Ada Lovelace, a primeira programadora do mundo" - [EBC](https://memoria.ebc.com.br/tecnologia/2015/03/conheca-historia-da-ada-lovelace-primeira-programadora-do-mundo)
 
-"Mulheres Históricas: Ada Lovelace, a primeira programadora de todos os tempos" - [Canaltech](https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/)
+- "Mulheres Históricas: Ada Lovelace, a primeira programadora de todos os tempos" - [Canaltech](https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/)
 
-"Ada Lovelace Day" - [Revista Galileu](https://revistagalileu.globo.com/Caminhos-para-o-futuro/Desenvolvimento/noticia/2016/10/ada-lovelace-day.html)
+- "Ada Lovelace Day" - [Revista Galileu](https://revistagalileu.globo.com/Caminhos-para-o-futuro/Desenvolvimento/noticia/2016/10/ada-lovelace-day.html)
 
-"Conheça Ada Lovelace: autora do primeiro programa de computador" - [The Hack](https://thehack.com.br/conheca-ada-lovelace-matematica-do-seculo-xix-autora-do-primeiro-programa-de-computador/)
-
----
-
-🎬 **Vídeo Complementar:**
-
-Early Computing (Crash Course) - [YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+- "Conheça Ada Lovelace: autora do primeiro programa de computador" - [The Hack](https://thehack.com.br/conheca-ada-lovelace-matematica-do-seculo-xix-autora-do-primeiro-programa-de-computador/)
 
 ---
 
-:heart: [POST no INSTAGRAM](https://www.instagram.com/p/CU1Kjr9skpv/)
+### 🎬 Vídeo Complementar
+
+- Early Computing (Crash Course) - [YouTube](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+
+---
+
+### :heart: Post
+
+Acessar no [Instagram](https://www.instagram.com/p/CU1Kjr9skpv/).
