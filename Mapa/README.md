@@ -6,7 +6,7 @@ _"Ciência da Computação é a área que estuda o que os computadores podem faz
 
 ---
 
-### 📝 Postagens:
+### 📝 Postagens
 
 - [Parte #0000](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0000.md)
 - [Parte #0001](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0001.md)
@@ -17,6 +17,6 @@ _"Ciência da Computação é a área que estuda o que os computadores podem faz
 
 ---
 
-### 🎬 Vídeo Complementar:
+### 🎬 Vídeo Complementar
 
-Map of Computer Science (Domain of Science) - [YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- Map of Computer Science (Domain of Science) - [YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)
