@@ -8,9 +8,7 @@
 
 Olá, mundo!
 
-Meu nome é **Daniel Brito**.
-
-Sou bacharel em **Ciência da Computação** (UFC), **artista visual** e **escritor**.
+Meu nome é **Daniel Brito**. Sou **cientista da computação**, **artista visual** e **escritor**.
 
 Atualmente, trabalho como **desenvolvedor de software**, e tenho focado meus estudos em [tópicos](https://github.com/DanielBrito/self-learning) relacionados à **usabilidade** e **criação de aplicações** para **web** e **dispositivos móveis**.
 
@@ -22,7 +20,7 @@ Confira mais informações sobre mim e meus projetos no meu [site pessoal](https
 
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, mas decidi levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação **de uma maneira acessível para o público em geral**.
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde estudei Ciência da Computação. Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação **de uma maneira acessível para o público em geral**.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
