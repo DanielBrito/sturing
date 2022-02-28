@@ -9,3 +9,7 @@
 ## C
 
 - [Ciência da Computação](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/CienciaDaComputacao.md)
+
+## L
+
+- [Linguagem de Programação](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/LinguagemDeProgramacao.md)
