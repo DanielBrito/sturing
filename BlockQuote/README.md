@@ -3,3 +3,6 @@
 <p align="center"><em>Citações interessantes sobre Computação</em></h1>
 
 - [Donald Knuth - Literate Programming](https://github.com/DanielBrito/sturing/blob/master/BlockQuote/Citacoes/DonaldKnuth_LiterateProgramming.md)
+
+- [Bill Gates - Ubiquidade](https://github.com/DanielBrito/sturing/blob/master/BlockQuote/Citacoes/BillGates_Ubiquidade.md)
+
