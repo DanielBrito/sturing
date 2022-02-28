@@ -12,7 +12,7 @@ Meu nome é **Daniel Brito**. Sou **cientista da computação**, **artista visua
 
 Atualmente, trabalho como **desenvolvedor de software**, e tenho focado meus estudos em [tópicos](https://github.com/DanielBrito/self-learning) relacionados à **usabilidade** e **criação de aplicações** para **web** e **dispositivos móveis**.
 
-Além disso, também tenho um grande interesse pelo campo do [Design Generativo](https://github.com/DanielBrito/generative-design), que é um processo de criação de algoritmos para gerar arte.
+Além disso, também tenho um grande interesse pelo campo do [Design Generativo](https://github.com/DanielBrito/generative-design), um processo de criação de algoritmos para gerar arte.
 
 Confira mais informações sobre mim e meus projetos no meu [site pessoal](https://danielbrito.github.io/).
 
