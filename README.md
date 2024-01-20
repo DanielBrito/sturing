@@ -8,27 +8,23 @@
 
 Olá, mundo!
 
-Meu nome é **Daniel Brito**. Sou **cientista da computação**, **artista visual** e **escritor**.
-
-Atualmente, trabalho como **desenvolvedor de software**, e tenho focado meus estudos em [tópicos](https://github.com/DanielBrito/self-learning) relacionados à **usabilidade** e **criação de aplicações** para **web** e **dispositivos móveis**.
-
-Além disso, também tenho um grande interesse pelo campo do [Design Generativo](https://github.com/DanielBrito/generative-design), um processo de criação de algoritmos para gerar arte.
+Meu nome é **Daniel Brito**. Sou **cientista da computação**, **artista visual** e **escritor**. Atualmente, trabalho como **engenheiro de software** no mercado de tecnologia.
 
 Confira mais informações sobre mim e meus projetos no meu [site pessoal](https://danielbrito.github.io/).
 
----
-
 ## :thinking: Por que sTuring
 
-O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde estudei Ciência da Computação. Decidi, contudo, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação **de uma maneira acessível para o público em geral**.
+> :bulb: **Curiosidade:** O nome _sTuring_ remete a Alan Turing, pai da computação, e '_studying_', que significa '_estudando_' em inglês.
+
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde estudei Ciência da Computação. 
+
+Decidi, então, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma maneira acessível para o público em geral**.
 
 Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing/issues)** e **recomendar** assuntos. Será um prazer criar alguns **posts** sobre tópicos **interessantes**.
 
----
-
 ## :bookmark_tabs: Categorias
 
-Divisão dos tópicos relacionados aos posts.
+Divisão dos tópicos relacionados aos posts:
 
 - **[Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario):** Definição de conceitos da Computação
 
@@ -42,11 +38,9 @@ Divisão dos tópicos relacionados aos posts.
 
 - **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
 
----
+## :triangular_ruler: Recursos
 
-## 🧰 Recursos
-
-Ferramentas e ilustrações utilizadas na criação dos posts.
+Principais ferramentas e ilustrações utilizadas na criação dos posts:
 
 - [Canva](https://www.canva.com/)
 
