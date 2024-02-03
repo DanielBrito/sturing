@@ -37,6 +37,6 @@ Dentre os primeiros computadores a usar um microprocessador estão o Altair 8800
 
 ---
 
-### Post
+### :heart: Post
 
 Acessar no [Instagram](https://www.instagram.com/p/CK9Qcb8MUgG/).
