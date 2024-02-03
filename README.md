@@ -16,7 +16,7 @@ Confira mais informações sobre mim e meus projetos no meu [site pessoal](https
 
 > :bulb: **Curiosidade:** O nome _sTuring_ remete a Alan Turing, pai da computação, e '_studying_', que significa '_estudando_' em inglês.
 
-O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde estudei Ciência da Computação. 
+O **sTuring** foi proposto, inicialmente, para ser uma Célula de Aprendizagem Cooperativa na Universidade Federal do Ceará, onde estudei Ciência da Computação.
 
 Decidi, então, levar a ideia adiante por meio da criação deste projeto alternativo de divulgação científica, com intuito de **compartilhar o conhecimento** que adquiri ao longo do meu processo de graduação, mas **de uma maneira acessível para o público em geral**.
 
@@ -26,17 +26,17 @@ Sinta-se à vontade para **abrir [issues](https://github.com/DanielBrito/sturing
 
 Divisão dos tópicos relacionados aos posts:
 
-- **[Dicionário](https://github.com/DanielBrito/sturing/tree/master/Dicionario):** Definição de conceitos da Computação
+- **[Dicionário](Dicionario):** Definição de conceitos da Computação
 
-- **[Mapa](https://github.com/DanielBrito/sturing/tree/master/Mapa):** Destrinchando o trabalho do Domain of Science
+- **[Mapa](Mapa):** Destrinchando o trabalho do Domain of Science
 
-- **[Biografias](https://github.com/DanielBrito/sturing/tree/master/Biografias):** Pessoas influentes na Computação
+- **[Biografias](Biografias):** Pessoas influentes na Computação
 
-- **[BlockQuote](https://github.com/DanielBrito/sturing/tree/master/BlockQuote):** Citações interessantes sobre Computação
+- **[BlockQuote](BlockQuote):** Citações interessantes sobre Computação
 
-- **[História](https://github.com/DanielBrito/sturing/tree/master/Historia):** Marcos importantes na história da Computação
+- **[História](Historia):** Marcos importantes na história da Computação
 
-- **[Como Funciona](https://github.com/DanielBrito/sturing/tree/master/ComoFunciona)**: Entendendo os mecanismos da Computação
+- **[Como Funciona](ComoFunciona)**: Entendendo os mecanismos da Computação
 
 ## :triangular_ruler: Recursos
 

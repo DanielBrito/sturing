@@ -8,12 +8,12 @@ _"Ciência da Computação é a área que estuda o que os computadores podem faz
 
 ### 📝 Postagens
 
-- [Parte #0000](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0000.md)
-- [Parte #0001](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0001.md)
-- [Parte #0010](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0010.md)
-- [Parte #0011](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0011.md)
-- [Parte #0100](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0100.md)
-- [Parte #0101](https://github.com/DanielBrito/sturing/blob/master/Mapa/Threads/0101.md)
+- [Parte #0000](Dominios/0000.md)
+- [Parte #0001](Dominios/0001.md)
+- [Parte #0010](Dominios/0010.md)
+- [Parte #0011](Dominios/0011.md)
+- [Parte #0100](Dominios/0100.md)
+- [Parte #0101](Dominios/0101.md)
 
 ---
 

@@ -4,12 +4,12 @@
 
 ## A
 
-- [Algoritmo](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/Algoritmo.md)
+- [Algoritmo](Termos/Algoritmo.md)
 
 ## C
 
-- [Ciência da Computação](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/CienciaDaComputacao.md)
+- [Ciência da Computação](Termos/CienciaDaComputacao.md)
 
 ## L
 
-- [Linguagem de Programação](https://github.com/DanielBrito/sturing/blob/master/Dicionario/Termos/LinguagemDeProgramacao.md)
+- [Linguagem de Programação](Termos/LinguagemDeProgramacao.md)

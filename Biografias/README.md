@@ -2,6 +2,6 @@
 
 <p align="center"><em>Pessoas influentes na Computação</em></p>
 
-- [Alan Turing](https://github.com/DanielBrito/sturing/blob/master/Biografias/Personalidades/AlanTuring.md)
+- [Alan Turing](Personalidades/AlanTuring.md)
 
-- [Ada Lovelace](https://github.com/DanielBrito/sturing/blob/master/Biografias/Personalidades/AdaLovelace.md)
+- [Ada Lovelace](Personalidades/AdaLovelace.md)
