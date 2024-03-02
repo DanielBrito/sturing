@@ -5,3 +5,5 @@
 - [Donald Knuth - Literate Programming](Citacoes/DonaldKnuth_LiterateProgramming.md)
 
 - [Bill Gates - Ubiquidade](Citacoes/BillGates_Ubiquidade.md)
+
+- [Karen Spärck Jones - Computação](Citacoes/KarenSparckJones_Computacao.md)
